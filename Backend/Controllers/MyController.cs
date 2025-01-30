@@ -15,7 +15,8 @@ namespace Backend.Controllers
             new { Id = 5, Name = "Burger Mansion", Location = "Solna" },
             new { Id = 6, Name = "Burger King", Location = "Solna" },
             new { Id = 7, Name = "McDonald's", Location = "Solna" },
-            new { Id = 8, Name = "Kebab Kurdistan", Location = "Solna" }
+            
+            new { Id = 9, Name = "Thai", Location = "Solna" },
         };
 
         // GET: api/My
