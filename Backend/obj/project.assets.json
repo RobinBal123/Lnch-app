@@ -470,19 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dzangane\\.nuget\\packages\\": {}
+    "C:\\Users\\robbal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dzangane\\Lnch-app\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\robbal\\ws\\Lnch-app\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\dzangane\\Lnch-app\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\dzangane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dzangane\\Lnch-app\\Backend\\obj\\",
+      "projectPath": "C:\\Users\\robbal\\ws\\Lnch-app\\Backend\\Backend.csproj",
+      "packagesPath": "C:\\Users\\robbal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\robbal\\ws\\Lnch-app\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dzangane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\robbal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

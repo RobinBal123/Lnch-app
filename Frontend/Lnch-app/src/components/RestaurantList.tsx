@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 
 interface Restaurant {
-  Id: number;
-  Name: string;
-  Location: string;
+  id: number;
+  name: string;
+  location: string;
 }
 
 const RestaurantList: React.FC = () => {
@@ -13,6 +13,7 @@ const RestaurantList: React.FC = () => {
     fetch("http://localhost:5076/api/My")
       .then((response) => response.json())
       .then((data) => {
+        console.log("API Response:", data);
         setRestaurants(data);
       })
       .catch((error) => {
@@ -23,9 +24,9 @@ const RestaurantList: React.FC = () => {
   return (
     <div>
       {restaurants.map((restaurant) => (
-        <div key={restaurant.Id}>
-          <h3>{restaurant.Name}</h3>
-          <p>Location: {restaurant.Location}</p>
+        <div key={restaurant.id}>
+          <h3>{restaurant.name}</h3>
+          <p>Location: {restaurant.location}</p>
         </div>
       ))}
     </div>
