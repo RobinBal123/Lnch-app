@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import styles from "./RestaurantList.module.css";
 
 interface Restaurant {
   id: number;
@@ -22,11 +23,13 @@ const RestaurantList: React.FC = () => {
   }, []);
 
   return (
-    <div>
+    <div className={styles.restaurantContainer}>
       {restaurants.map((restaurant) => (
-        <div key={restaurant.id}>
-          <h3>{restaurant.name}</h3>
-          <p>Location: {restaurant.location}</p>
+        <div key={restaurant.id} className={styles.restaurantCard}>
+          <h3 className={styles.restaurantName}>{restaurant.name}</h3>
+          <p className={styles.restaurantLocation}>
+            Location: {restaurant.location}
+          </p>
         </div>
       ))}
     </div>
