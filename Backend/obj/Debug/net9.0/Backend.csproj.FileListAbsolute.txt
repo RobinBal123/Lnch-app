@@ -35,14 +35,8 @@ C:\Users\dzangane\Lnch-app\Backend\obj\Debug\net9.0\refint\Backend.dll
 C:\Users\dzangane\Lnch-app\Backend\obj\Debug\net9.0\Backend.pdb
 C:\Users\dzangane\Lnch-app\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
 C:\Users\dzangane\Lnch-app\Backend\obj\Debug\net9.0\ref\Backend.dll
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\appsettings.json
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.staticwebassets.endpoints.json
 C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.exe
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.deps.json
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.runtimeconfig.json
 C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.dll
-C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Backend.pdb
 C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\robbal\ws\Lnch-app\Backend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -66,9 +60,6 @@ C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\staticwebassets\msbuild.bui
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Backend.props
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Backend.props
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\Backend.csproj.Up2Date
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\Backend.dll
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\refint\Backend.dll
 C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\Backend.pdb
-C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
-C:\Users\robbal\ws\Lnch-app\Backend\obj\Debug\net9.0\ref\Backend.dll
